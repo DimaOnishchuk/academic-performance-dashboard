@@ -8,7 +8,18 @@ The dashboard analyzes student grades across classes, subjects, teachers, grade 
 The main goal of the project is to transform raw school performance data into a clean analytical model and build a multi-page Power BI report with KPI cards, class-level analysis, student-level drill-through, tooltip details, and time intelligence analytics.
 
 ---
+## 🛠 Technologies
 
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- Star Schema
+- Time Intelligence
+- Drillthrough
+- Tooltips
+- Interactive Dashboards
+---
 ## 🎯 Project Objectives
 
 - Clean and transform educational data in Power Query
@@ -72,6 +83,9 @@ Data cleaning and transformation were completed in **Power Query**:
 ---
 
 ## 📊 Metrics
+Complete DAX documentation is available in:
+
+📄 DAX_Measures.md
 
 The report uses a separate `_Measures` table to store all DAX measures.
 
