@@ -1,0 +1,13 @@
+class_id,class_code,grade_level,section,class_name,class_teacher_id
+1,G5A,5,A,Grade 5 - Section A,4
+2,G5B,5,B,Grade 5 - Section B,6
+3,G6A,6,A,Grade 6 - Section A,11
+4,G6B,6,B,Grade 6 - Section B,7
+5,G7A,7,A,Grade 7 - Section A,15
+6,G7B,7,B,Grade 7 - Section B,20
+7,G8A,8,A,Grade 8 - Section A,16
+8,G8B,8,B,Grade 8 - Section B,10
+9,G9A,9,A,Grade 9 - Section A,19
+10,G9B,9,B,Grade 9 - Section B,5
+11,G10A,10,A,Grade 10 - Section A,12
+12,G10B,10,B,Grade 10 - Section B,1

@@ -1,0 +1,59 @@
+students.csv:
+
+student_id — unique student identifier (key for linking to the grades fact)
+student_name — full student name (English locale, unique)
+gender — student gender (F / M)
+birth_date — date of birth in MM.DD.YYYY format
+class_id — numeric class identifier (foreign key to classes.class_id)
+enrollment_year — year of enrollment
+is_active — active flag (TRUE / FALSE)
+address — street + house number (English locale)
+city — city name (English locale)
+email — student email address (unique)
+
+
+classes.csv:
+
+class_id — numeric surrogate key for the class (recommended for Power BI relationships)
+class_code — readable class code (e.g., 7A)
+grade_level — grade number (5–10)
+section — section/letter (A / B)
+class_name — display name (e.g., "Grade 7 - A")
+class_teacher_id — homeroom teacher identifier (foreign key to teachers.teacher_id)
+
+
+teachers.csv:
+
+teacher_id — unique teacher identifier
+teacher_name — full teacher name (English locale)
+hire_date — hire date in MM.DD.YYYY format
+department — department (e.g., Mathematics, Science, Languages, etc.)
+
+
+subjects.csv:
+
+subject_id — unique subject identifier
+subject_name — subject name (English locale)
+subject_type — core/elective
+department_hint — helper field used to realistically assign teachers to subjects (can be ignored in the final model if desired)
+
+
+periods.csv:
+
+period_id — unique period identifier
+academic_year — academic year (e.g., 2024/2025)
+term — Semester 1 / Semester 2
+start_date — start date in MM.DD.YYYY
+end_date — end date in MM.DD.YYYY
+
+
+grades.csv:
+
+grade_id — unique record identifier
+student_id — student identifier
+subject_id — subject identifier
+teacher_id — teacher identifier
+period_id — academic period identifier
+grade_date — grade date in MM.DD.YYYY
+grade_value — grade value (1–12) stored as text
+grade_type — grade type (exam, test, homework, project, quiz). Some values may be blank for Power Query practice

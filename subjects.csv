@@ -1,0 +1,21 @@
+subject_id,subject_name,subject_type,department_hint
+1,Mathematics,core,Mathematics
+2,English Language Arts,core,Languages
+3,Spanish,elective,Languages
+4,World History,core,Humanities
+5,U.S. History,core,Humanities
+6,Geography,core,Humanities
+7,Civics,elective,Humanities
+8,Economics,elective,Humanities
+9,Biology,core,Science
+10,Chemistry,core,Science
+11,Physics,core,Science
+12,Earth Science,elective,Science
+13,Environmental Science,elective,Science
+14,Computer Science,core,Computer Science
+15,Robotics,elective,Computer Science
+16,Statistics,elective,Mathematics
+17,Art,elective,Arts
+18,Music,elective,Arts
+19,Physical Education,core,Physical Education
+20,Health,elective,Physical Education

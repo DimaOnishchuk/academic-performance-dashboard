@@ -1,0 +1,121 @@
+student_id,student_name,gender,birth_date,class_id,enrollment_year,is_active,address,city,state,zip_code,email
+1,Oliver Wood,M,10/01/2009,1,2022,TRUE,7710 Lakeview Dr,Los Angeles,CA,62091,oliver.wood1@example.edu
+2,Natalie Edwards,F,01/11/2012,6,2022,TRUE,6728 River Rd,New York,NY,25465,natalie.edwards2@example.edu
+3,Elijah Turner,F,02/14/2009,1,2025,TRUE,9173 Cedar Rd,Philadelphia,PA,68644,elijah.turner3@example.edu
+4,Paisley Reed,F,09/14/2013,11,2025,TRUE,3497 Maple St,Columbus,OH,45362,paisley.reed4@example.edu
+5,Lucy Young,F,05/14/2011,3,2025,FALSE,9462 Oak Ave,Boston,MA,15519,lucy.young5@example.edu
+6,Carter Ross,M,11/24/2011,1,2024,TRUE,1212 Oak Ave,Fort Worth,TX,21811,carter.ross6@example.edu
+7,Parker Barnes,F,03/05/2009,10,2024,TRUE,2094 Highland Ave,Charlotte,NC,73402,parker.barnes7@example.edu
+8,Claire Kelly,M,01/19/2011,11,2023,TRUE,4097 Main St,San Diego,CA,34877,claire.kelly8@example.edu
+9,Avery Morris,F,05/10/2013,8,2022,TRUE,1796 Maple St,Houston,TX,77155,avery.morris9@example.edu
+10,Taylor Turner,M,11/19/2011,7,2025,TRUE,1136 Pine St,Philadelphia,PA,39936,taylor.turner10@example.edu
+11,Stella Patterson,F,02/22/2012,4,2023,TRUE,4420 Lakeview Dr,Chicago,IL,68419,stella.patterson11@example.edu
+12,Sawyer Davis,F,12/23/2010,5,2024,TRUE,1520 Washington Ave,Phoenix,AZ,28141,sawyer.davis12@example.edu
+13,Victoria Green,F,05/24/2009,1,2025,TRUE,559 Maple St,San Jose,CA,88429,victoria.green13@example.edu
+14,Caleb Edwards,M,10/03/2009,12,2024,TRUE,1243 Sunset Blvd,Chicago,IL,81577,caleb.edwards14@example.edu
+15,Zoe Morris,F,06/15/2010,6,2024,TRUE,1282 Meadow Ln,San Francisco,CA,64677,zoe.morris15@example.edu
+16,Mason Howard,F,04/16/2013,7,2022,TRUE,1495 Park Ave,Chicago,IL,25149,mason.howard16@example.edu
+17,Taylor Murphy,M,05/11/2013,12,2025,TRUE,1382 Ridge Rd,Seattle,WA,77440,taylor.murphy17@example.edu
+18,Mason Young,F,05/24/2014,1,2023,TRUE,8156 River Rd,Houston,TX,90544,mason.young18@example.edu
+19,Owen Howard,M,02/16/2009,6,2024,TRUE,3328 Ridge Rd,Boston,MA,32230,owen.howard19@example.edu
+20,Nora Green,M,08/04/2014,4,2024,TRUE,3262 Park Ave,Dallas,TX,66478,nora.green20@example.edu
+21,Nora Reed,F,04/24/2013,4,2024,TRUE,8144 Washington Ave,Phoenix,AZ,15317,nora.reed21@example.edu
+22,Gabriel Edwards,M,11/24/2010,2,2025,TRUE,6792 Lakeview Dr,San Antonio,TX,92016,gabriel.edwards22@example.edu
+23,Audrey Howard,M,01/28/2014,6,2022,TRUE,9964 Maple St,Dallas,TX,98900,audrey.howard23@example.edu
+24,Gabriel Watson,M,06/19/2012,11,2022,TRUE,7461 Cedar Rd,Fort Worth,TX,13240,gabriel.watson24@example.edu
+25,Eleanor Watson,F,08/01/2010,1,2022,TRUE,6050 Oak Ave,Seattle,WA,99717,eleanor.watson25@example.edu
+26,Jordan Reed,M,11/15/2011,3,2022,TRUE,602 Pine St,Seattle,WA,39682,jordan.reed26@example.edu
+27,Morgan Reynolds,M,11/02/2014,9,2023,TRUE,1438 Lakeview Dr,San Diego,CA,60852,morgan.reynolds27@example.edu
+28,Elijah Rivera,M,03/18/2011,11,2022,TRUE,8245 River Rd,Denver,CO,54970,elijah.rivera28@example.edu
+29,Leah Scott,F,02/10/2010,12,2022,TRUE,1449 Elm St,Fort Worth,TX,80379,leah.scott29@example.edu
+30,Chloe Ward,F,11/28/2012,9,2022,TRUE,9026 Lakeview Dr,Austin,TX,46078,chloe.ward30@example.edu
+31,Hazel Baker,F,09/20/2009,7,2022,TRUE,2311 Sunset Blvd,Austin,TX,29487,hazel.baker31@example.edu
+32,Audrey Stewart,M,07/11/2014,10,2022,TRUE,8638 Ridge Rd,Charlotte,NC,48033,audrey.stewart32@example.edu
+33,Julian Patterson,F,11/12/2014,9,2024,TRUE,9994 Cedar Rd,Fort Worth,TX,49905,julian.patterson33@example.edu
+34,Carter Long,M,08/01/2014,4,2025,TRUE,90 Highland Ave,Indianapolis,IN,59418,carter.long34@example.edu
+35,Mason Long,F,10/15/2014,7,2022,TRUE,1089 Ridge Rd,Philadelphia,PA,70153,mason.long35@example.edu
+36,Natalie Cooper,M,10/06/2011,8,2025,TRUE,7817 Ridge Rd,Columbus,OH,51577,natalie.cooper36@example.edu
+37,Oliver Reed,M,05/01/2009,5,2023,TRUE,593 Cedar Rd,New York,NY,30385,oliver.reed37@example.edu
+38,Quinn Adams,M,08/12/2012,12,2024,TRUE,1728 Sunset Blvd,San Francisco,CA,86314,quinn.adams38@example.edu
+39,Jacob Coleman,M,03/21/2011,12,2025,TRUE,8682 Highland Ave,Columbus,OH,30935,jacob.coleman39@example.edu
+40,Savannah Ross,F,12/10/2014,4,2023,TRUE,2977 Washington Ave,Jacksonville,FL,89053,savannah.ross40@example.edu
+41,Chloe Reed,F,03/08/2011,2,2023,TRUE,1454 Elm St,Phoenix,AZ,60842,chloe.reed41@example.edu
+42,Oliver Bailey,M,06/01/2010,4,2025,TRUE,1583 Cedar Rd,New York,NY,84697,oliver.bailey42@example.edu
+43,Isaac King,M,04/18/2010,12,2024,TRUE,1165 Sunset Blvd,San Antonio,TX,23916,isaac.king43@example.edu
+44,Mason Carter,M,08/24/2010,4,2023,TRUE,2599 Elm St,Philadelphia,PA,98203,mason.carter44@example.edu
+45,Oliver Barnes,F,07/05/2010,11,2025,TRUE,5364 Lakeview Dr,Houston,TX,71205,oliver.barnes45@example.edu
+46,Layla Coleman,M,10/28/2013,4,2024,TRUE,3291 Pine St,Los Angeles,CA,63471,layla.coleman46@example.edu
+47,Leah Hill,M,07/19/2013,4,2023,TRUE,5313 Oak Ave,New York,NY,92494,leah.hill47@example.edu
+48,Addison Flores,F,08/28/2014,10,2024,TRUE,4589 Oak Ave,Dallas,TX,30976,addison.flores48@example.edu
+49,Addison Kelly,M,02/23/2013,7,2023,TRUE,1165 River Rd,Philadelphia,PA,54789,addison.kelly49@example.edu
+50,Reese Bennett,F,02/13/2009,6,2022,TRUE,5544 Cedar Rd,San Jose,CA,96476,reese.bennett50@example.edu
+51,Riley Long,F,05/15/2013,9,2025,TRUE,6487 Highland Ave,Houston,TX,12991,riley.long51@example.edu
+52,Jacob Cole,F,08/29/2011,5,2025,TRUE,3212 Park Ave,Los Angeles,CA,59240,jacob.cole52@example.edu
+53,Ethan Graham,M,10/25/2011,5,2024,TRUE,6820 Ridge Rd,Indianapolis,IN,84446,ethan.graham53@example.edu
+54,Oliver Bryant,M,11/09/2009,9,2022,TRUE,6332 Sunset Blvd,Philadelphia,PA,32167,oliver.bryant54@example.edu
+55,Hazel Long,F,10/26/2013,8,2025,TRUE,9804 Elm St,Fort Worth,TX,57916,hazel.long55@example.edu
+56,Audrey Wood,M,01/10/2012,9,2024,TRUE,450 Maple St,San Jose,CA,42115,audrey.wood56@example.edu
+57,Lucy Carter,F,08/02/2013,11,2025,TRUE,6527 Maple St,Austin,TX,86250,lucy.carter57@example.edu
+58,Julian Scott,F,07/06/2011,7,2025,TRUE,754 Ridge Rd,San Diego,CA,22907,julian.scott58@example.edu
+59,Julian Price,F,10/02/2011,10,2022,TRUE,7476 Oak Ave,Columbus,OH,36693,julian.price59@example.edu
+60,Lucas King,F,05/25/2010,6,2025,TRUE,7473 Highland Ave,Columbus,OH,44357,lucas.king60@example.edu
+61,Caleb Barnes,M,01/31/2013,12,2023,TRUE,3916 Sunset Blvd,Phoenix,AZ,24924,caleb.barnes61@example.edu
+62,Paisley Young,M,01/31/2012,5,2023,TRUE,3119 Cedar Rd,San Diego,CA,75817,paisley.young62@example.edu
+63,Wyatt Reed,F,09/06/2009,1,2024,TRUE,633 Oak Ave,New York,NY,39171,wyatt.reed63@example.edu
+64,Savannah Watson,F,12/21/2009,11,2023,TRUE,7940 Sunset Blvd,Jacksonville,FL,56412,savannah.watson64@example.edu
+65,Parker Green,M,07/19/2014,12,2023,TRUE,1972 Sunset Blvd,Chicago,IL,91753,parker.green65@example.edu
+66,Eleanor Reynolds,F,12/26/2013,7,2024,TRUE,6054 Pine St,Phoenix,AZ,95676,eleanor.reynolds66@example.edu
+67,Anna Scott,M,01/24/2011,7,2024,TRUE,5320 Oak Ave,Charlotte,NC,81255,anna.scott67@example.edu
+68,Aiden Bailey,M,03/14/2014,5,2022,TRUE,9901 Oak Ave,San Antonio,TX,49820,aiden.bailey68@example.edu
+69,Hazel Stewart,M,03/04/2012,3,2023,TRUE,6013 Oak Ave,Austin,TX,52263,hazel.stewart69@example.edu
+70,Gabriel Rivera,M,11/30/2013,9,2024,TRUE,6556 Main St,San Diego,CA,77654,gabriel.rivera70@example.edu
+71,Sawyer Foster,M,02/06/2013,1,2024,TRUE,6360 River Rd,Denver,CO,35553,sawyer.foster71@example.edu
+72,Levi Flores,M,05/18/2013,9,2023,TRUE,2914 Pine St,Denver,CO,21762,levi.flores72@example.edu
+73,Nora Price,M,04/02/2009,4,2022,TRUE,4857 Maple St,Denver,CO,95354,nora.price73@example.edu
+74,Layla Edwards,M,12/11/2009,6,2022,TRUE,5151 Oak Ave,Houston,TX,13402,layla.edwards74@example.edu
+75,Caleb Russell,F,02/04/2010,12,2025,TRUE,8021 River Rd,San Diego,CA,78361,caleb.russell75@example.edu
+76,Grace Rogers,M,06/04/2013,6,2024,TRUE,2249 Sunset Blvd,Austin,TX,73968,grace.rogers76@example.edu
+77,Savannah Stewart,F,07/09/2009,7,2024,TRUE,1472 Sunset Blvd,Fort Worth,TX,80954,savannah.stewart77@example.edu
+78,Caleb Baker,M,02/11/2009,2,2025,TRUE,4035 Main St,Phoenix,AZ,31266,caleb.baker78@example.edu
+79,Caleb Moore,F,08/07/2012,4,2025,TRUE,4499 Maple St,San Jose,CA,71793,caleb.moore79@example.edu
+80,Reese Stewart,F,05/28/2012,11,2023,TRUE,1031 River Rd,Philadelphia,PA,70130,reese.stewart80@example.edu
+81,Mason Barnes,M,05/29/2009,6,2022,TRUE,3571 Highland Ave,Jacksonville,FL,40855,mason.barnes81@example.edu
+82,Anna Parker,M,09/15/2014,4,2025,TRUE,6604 Pine St,Dallas,TX,50859,anna.parker82@example.edu
+83,Caleb Patterson,M,12/03/2011,8,2025,TRUE,8977 River Rd,Austin,TX,22113,caleb.patterson83@example.edu
+84,Stella Simmons,M,07/23/2009,4,2023,TRUE,8653 River Rd,Fort Worth,TX,77609,stella.simmons84@example.edu
+85,Lucas Griffin,F,02/14/2009,8,2024,TRUE,6914 Highland Ave,San Diego,CA,30616,lucas.griffin85@example.edu
+86,Natalie Nelson,M,08/16/2010,5,2023,TRUE,4376 Ridge Rd,Boston,MA,80068,natalie.nelson86@example.edu
+87,Lucas Mitchell,F,01/06/2009,4,2023,TRUE,5772 Elm St,Chicago,IL,90591,lucas.mitchell87@example.edu
+88,Gabriel Powell,F,05/21/2014,12,2025,TRUE,8913 Meadow Ln,Denver,CO,76318,gabriel.powell88@example.edu
+89,Reese Baker,F,09/04/2013,4,2022,TRUE,3424 Maple St,Charlotte,NC,81220,reese.baker89@example.edu
+90,Natalie Powell,M,10/08/2010,5,2024,TRUE,9125 Elm St,Chicago,IL,71240,natalie.powell90@example.edu
+91,Owen Parker,F,01/13/2013,2,2023,TRUE,7575 Main St,Fort Worth,TX,25976,owen.parker91@example.edu
+92,Wyatt Rivera,F,03/25/2013,12,2025,TRUE,1866 Sunset Blvd,Denver,CO,11372,wyatt.rivera92@example.edu
+93,Julian Ross,F,04/04/2012,11,2025,TRUE,5537 River Rd,San Jose,CA,61406,julian.ross93@example.edu
+94,Brooklyn Griffin,F,11/17/2011,4,2023,TRUE,5406 Elm St,Houston,TX,45888,brooklyn.griffin94@example.edu
+95,Claire Bennett,M,01/05/2014,7,2022,TRUE,1556 Pine St,Boston,MA,98826,claire.bennett95@example.edu
+96,Caleb Parker,F,01/07/2011,4,2025,TRUE,9721 Main St,Charlotte,NC,21809,caleb.parker96@example.edu
+97,Oliver Simmons,F,10/06/2010,2,2025,TRUE,5607 Meadow Ln,Chicago,IL,65969,oliver.simmons97@example.edu
+98,Paisley Kelly,F,08/30/2010,12,2025,TRUE,262 Main St,Columbus,OH,62521,paisley.kelly98@example.edu
+99,Eva Jenkins,M,10/01/2011,11,2022,TRUE,5617 Elm St,San Antonio,TX,95291,eva.jenkins99@example.edu
+100,Victoria Graham,M,04/20/2011,9,2024,TRUE,2604 Elm St,Houston,TX,80626,victoria.graham100@example.edu
+101,Reese Patterson,F,12/15/2012,10,2023,TRUE,8464 Main St,San Antonio,TX,35847,reese.patterson101@example.edu
+102,Claire Baker,F,12/07/2009,3,2023,TRUE,5475 Washington Ave,Columbus,OH,22026,claire.baker102@example.edu
+103,Zoe Watson,M,05/24/2010,8,2023,TRUE,8913 Ridge Rd,Denver,CO,83495,zoe.watson103@example.edu
+104,Jackson Patterson,M,11/22/2010,12,2024,TRUE,72 Elm St,Houston,TX,99793,jackson.patterson104@example.edu
+105,Zoe Turner,M,11/11/2010,3,2022,TRUE,2960 River Rd,Fort Worth,TX,96294,zoe.turner105@example.edu
+106,Elijah Young,M,03/08/2009,3,2023,TRUE,2352 Ridge Rd,Los Angeles,CA,60643,elijah.young106@example.edu
+107,Jacob Flores,M,12/13/2010,6,2023,TRUE,5451 Maple St,Denver,CO,94109,jacob.flores107@example.edu
+108,Logan Stewart,F,07/10/2013,8,2022,TRUE,9263 River Rd,Columbus,OH,63341,logan.stewart108@example.edu
+109,Nora Wood,M,03/14/2014,12,2025,TRUE,9282 Oak Ave,Houston,TX,78939,nora.wood109@example.edu
+110,Grace Powell,M,09/18/2013,1,2024,TRUE,7107 Main St,San Jose,CA,59346,grace.powell110@example.edu
+111,Nora Young,F,09/28/2011,2,2025,TRUE,861 Sunset Blvd,Fort Worth,TX,23811,nora.young111@example.edu
+112,Audrey Turner,M,06/09/2013,4,2022,FALSE,8958 Lakeview Dr,Jacksonville,FL,83919,audrey.turner112@example.edu
+113,Avery Simmons,M,05/18/2010,2,2022,TRUE,2038 Ridge Rd,Phoenix,AZ,85482,avery.simmons113@example.edu
+114,Leah Adams,M,09/27/2011,12,2024,TRUE,1036 Sunset Blvd,Philadelphia,PA,68987,leah.adams114@example.edu
+115,Audrey Cooper,F,12/31/2012,12,2023,TRUE,7462 Washington Ave,New York,NY,50350,audrey.cooper115@example.edu
+116,Chloe Howard,F,04/20/2014,4,2023,TRUE,3213 Washington Ave,Los Angeles,CA,56419,chloe.howard116@example.edu
+117,Stella Baker,F,04/08/2011,9,2023,TRUE,1748 Elm St,Los Angeles,CA,51023,stella.baker117@example.edu
+118,Morgan Murphy,F,10/03/2012,12,2025,TRUE,3667 Meadow Ln,Philadelphia,PA,50260,morgan.murphy118@example.edu
+119,Jacob Parker,F,01/07/2012,3,2023,TRUE,4487 Washington Ave,San Jose,CA,96770,jacob.parker119@example.edu
+120,Audrey Hughes,F,05/17/2012,3,2023,TRUE,7591 Oak Ave,Chicago,IL,67716,audrey.hughes120@example.edu
