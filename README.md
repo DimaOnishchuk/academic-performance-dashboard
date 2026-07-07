@@ -215,27 +215,6 @@ This page focuses on advanced time intelligence and analytics. It includes avera
 
 ---
 
-## 📁 Repository Structure
-
-```text
-academic-performance-dashboard/
-│
-├── README.md
-├── task_description.txt
-├── _data_description.txt
-├── Academic_Performance_Dashboard.pbix
-│
-└── screenshots/
-    ├── model.png
-    ├── academic_performance_overview.png
-    ├── performance.png
-    ├── details.png
-    ├── tooltip.png
-    └── analytics_&_time_intelligence.png
-```
-
----
-
 ## ✅ Project Status
 
 Completed.
